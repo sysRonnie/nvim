@@ -108,7 +108,7 @@ return {
 	{ "tpope/vim-surround" },
 	{ "vim-scripts/ReplacewithRegister" },
 	{ "numToStr/Comment.nvim" },
-	{ "nvim-tree/nvim-tree.lua" },
+	--{ "nvim-tree/nvim-tree.lua" },
 	{ "kyazdani42/nvim-web-devicons" },
 	{ "nvim-lualine/lualine.nvim" },
 	{ "nvim-telescope/telescope-fzf-native.nvim" },
